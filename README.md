@@ -17,18 +17,25 @@
 - [Rust](https://www.rust-lang.org/learn/get-started)
 - TypeScript: `npm install -g typescript`
 
+## Services
+- [Docker](https://docs.docker.com/get-docker/)
+- [Maven](https://maven.apache.org/download.cgi)
+- [XAMPP](https://www.apachefriends.org/index.html)
+
 ## Developer tools
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 - [TeamViewer](https://www.teamviewer.com/es/descarga/windows/)
 - [Notion](https://www.notion.so/desktop)
 - [Postman](https://www.postman.com/downloads/)
 - [WizTree](https://diskanalyzer.com/download)
+- [Unity](https://unity.com/es/download)
 
 ## Utilities
 - [Firefox](https://www.mozilla.org/firefox/new/)
 - [GreenShoot](https://getgreenshot.org/downloads/)
 - [EarTrumpet](https://www.microsoft.com/store/productId/9NBLGGH516XP)
 - [Discord](https://discord.com/)
+- [WhatsApp](https://www.microsoft.com/store/productId/9NKSQGP7F2NH)
 - [7-Zip](https://www.7-zip.org/download.html)
 - [OBS](https://obsproject.com/download)
 - [4K Video Downloader](https://www.4kdownload.com/es/downloads/6#)
@@ -44,7 +51,7 @@
 - [EA](https://www.ea.com/ea-app)
 
 
-## Oh hy posh
+## Oh my posh
 1. Update terminal from the [WindowsStore](https://www.microsoft.com/store/productId/9N0DX20HK701)
 2. Install from [here](ms-windows-store://pdp/?productid=XP8K0HKJFRXGCK)
 3. Open a new console and type:
@@ -70,7 +77,8 @@
 
     Execute a new console as administrator and write:
     ``` powershell
-        Set-ExecutionPolicy -ExecutionPolicy Bypass
+    Set-ExecutionPolicy -ExecutionPolicy Bypass
     ```
-6. Install the a nerd font ([here](https://www.nerdfonts.com/font-downloads) you have a few)
-7. Change the font to CascadiaCode: Configuracion > Valores predeterminados > Aparecia > Tipo de fuente    
+6. Install a nerd font from ([here](https://www.nerdfonts.com/font-downloads) you have a few)
+7. Restart the Terminal
+8. Change the font to the new font: Configuracion > Valores predeterminados > Aparecia > Tipo de fuente    
