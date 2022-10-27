@@ -43,6 +43,7 @@
 - [DuetDisplay](https://es.duetdisplay.com/#download)
 - [PotPlayer](https://potplayer.daum.net/)
 - [ScpToolkit](https://github.com/nefarius/ScpToolkit/releases/tag/v1.6.238.16010)
+- [Avidemux](https://avidemux.sourceforge.net/download.html)
 
 ## Games
 - [Steam](https://store.steampowered.com/about/)
@@ -63,7 +64,7 @@
     oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\agnoster.omp.json" | Invoke-Expression
    ```
 
-   A list of themes is avalible [here](https://ohmyposh.dev/docs/themes), to change it repalace "agnoster" with the name of the theme
+   A list of themes is avalible [here](https://ohmyposh.dev/docs/themes), to change it replace "agnoster" with the name of the theme
 
 5. Try open a new PowerShell window, if you are having a problem like this:
     ``` powershell
