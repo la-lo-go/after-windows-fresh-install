@@ -29,6 +29,8 @@
 - [Postman](https://www.postman.com/downloads/)
 - [WizTree](https://diskanalyzer.com/download)
 - [Unity](https://unity.com/es/download)
+- [Blender](https://www.blender.org/download/)
+- [XAMPP](https://sourceforge.net/projects/xampp/files/)
 
 ## Utilities
 - [Firefox](https://www.mozilla.org/firefox/new/)
@@ -36,6 +38,7 @@
 - [EarTrumpet](https://www.microsoft.com/store/productId/9NBLGGH516XP)
 - [Discord](https://discord.com/)
 - [WhatsApp](https://www.microsoft.com/store/productId/9NKSQGP7F2NH)
+- [Telegram](https://desktop.telegram.org/)
 - [7-Zip](https://www.7-zip.org/download.html)
 - [OBS](https://obsproject.com/download)
 - [4K Video Downloader](https://www.4kdownload.com/es/downloads/6#)
